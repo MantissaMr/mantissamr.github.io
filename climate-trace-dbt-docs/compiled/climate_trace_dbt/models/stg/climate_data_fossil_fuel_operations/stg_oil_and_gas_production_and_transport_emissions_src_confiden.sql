@@ -1,0 +1,2 @@
+-- Staging model for fossil_fuel_operations.oil_and_gas_production_and_transport_emissions_sources_confiden
+SELECT * FROM "climate_trace"."fossil_fuel_operations"."oil_and_gas_production_and_transport_emissions_sources_confiden"

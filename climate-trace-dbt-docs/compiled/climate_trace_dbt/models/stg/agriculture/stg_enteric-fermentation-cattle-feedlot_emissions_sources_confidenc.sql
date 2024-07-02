@@ -1,0 +1,2 @@
+-- Staging model for agriculture.enteric-fermentation-cattle-feedlot_emissions_sources_confidenc
+        SELECT * FROM { source('climate_data', 'enteric-fermentation-cattle-feedlot_emissions_sources_confidenc') };

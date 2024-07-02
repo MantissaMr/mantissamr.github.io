@@ -1,0 +1,2 @@
+-- Staging model for power.electricity-generation_emissions_sources_ownership_data_source
+        SELECT * FROM { source('climate_data', 'electricity-generation_emissions_sources_ownership_data_source') };

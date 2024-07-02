@@ -1,0 +1,2 @@
+-- Staging model for fossil_fuel_operations.oil-and-gas-production-and-transport_country_emissions
+        SELECT * FROM { source('climate_data', 'oil-and-gas-production-and-transport_country_emissions') };

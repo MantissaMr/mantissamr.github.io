@@ -1,0 +1,2 @@
+-- Staging model for buildings.residential-and-commercial-onsite-fuel-usage_country_emissions
+        SELECT * FROM { source('climate_data', 'residential-and-commercial-onsite-fuel-usage_country_emissions') };
